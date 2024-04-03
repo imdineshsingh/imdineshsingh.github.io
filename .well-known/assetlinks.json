@@ -1,1 +1,25 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "dk.le34.gismo4",
+    "sha256_cert_fingerprints":
+    ["E4:1A:DE:D6:90:38:DA:67:78:0C:B7:2F:D0:7F:33:01:BC:6A:5E:B6:0B:A9:C3:97:28:97:21:FE:8A:5D:4E:AC"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://urm.it34.com"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "dk.le34.gismo4",
+    "sha256_cert_fingerprints":
+    ["E4:1A:DE:D6:90:38:DA:67:78:0C:B7:2F:D0:7F:33:01:BC:6A:5E:B6:0B:A9:C3:97:28:97:21:FE:8A:5D:4E:AC"]
+  }
+}]
