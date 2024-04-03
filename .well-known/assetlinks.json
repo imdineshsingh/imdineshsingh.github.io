@@ -2,24 +2,24 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "dk.le34.gismo4",
+    "package_name": "com.applinkassistant",
     "sha256_cert_fingerprints":
-    ["E4:1A:DE:D6:90:38:DA:67:78:0C:B7:2F:D0:7F:33:01:BC:6A:5E:B6:0B:A9:C3:97:28:97:21:FE:8A:5D:4E:AC"]
+    ["5A:46:83:83:76:9C:37:B6:31:09:E9:4A:CD:73:0E:9B:CE:E6:31:90:02:34:78:6D:E2:F1:C1:58:41:52:23:43"]
   }
 },
 {
   "relation": ["delegate_permission/common.get_login_creds"],
   "target": {
     "namespace": "web",
-    "site": "https://urm.it34.com"
+    "site": "https://imdineshsingh.github.io"
   }
 },
 {
   "relation": ["delegate_permission/common.get_login_creds"],
   "target": {
     "namespace": "android_app",
-    "package_name": "dk.le34.gismo4",
+    "package_name": "com.applinkassistant",
     "sha256_cert_fingerprints":
-    ["E4:1A:DE:D6:90:38:DA:67:78:0C:B7:2F:D0:7F:33:01:BC:6A:5E:B6:0B:A9:C3:97:28:97:21:FE:8A:5D:4E:AC"]
+    ["5A:46:83:83:76:9C:37:B6:31:09:E9:4A:CD:73:0E:9B:CE:E6:31:90:02:34:78:6D:E2:F1:C1:58:41:52:23:43"]
   }
 }]
